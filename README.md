@@ -36,3 +36,5 @@ Machine Learning Model Algorithm
 * Trigram:  "wish you were" occurs max for the bigram "wish you"
 
 Demo url: https://kamkadir17.shinyapps.io/capstonPredictWord/
+R Presentation: http://rpubs.com/kamkadir17/jhu_ds_capstone
+
