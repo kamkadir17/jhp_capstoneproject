@@ -34,3 +34,5 @@ Machine Learning Model Algorithm
 **Example:**
 * Bigram:  "of the" occurs max for the unigram "of"
 * Trigram:  "wish you were" occurs max for the bigram "wish you"
+
+Demo url: https://kamkadir17.shinyapps.io/capstonPredictWord/
